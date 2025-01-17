@@ -1,14 +1,14 @@
 {
-"latest.version" : "0.1" , 
+"latest.version" : "0.1",
 
-"Update.Link.Count" : "2" , 
+"Update.Link.Count" : "2",
 
 
 
-"Update.Link.1" : "https://github.com/HenryCarm/update/raw/refs/heads/main/Terminal%20Ingame.sprite3" , 
-"Update.Link.1.type" : "Sprite"
+"Update.Link.1" : "https://github.com/HenryCarm/update/raw/refs/heads/main/Terminal%20Ingame.sprite3",
+"Update.Link.1.type" : "Sprite",
 
-"Update.Link.2" : "https://extensions.turbowarp.org/dango.png"
+"Update.Link.2" : "https://extensions.turbowarp.org/dango.png",
 "Update.Link.2.type" : "Image"
 
 
